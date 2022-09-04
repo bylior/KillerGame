@@ -17,7 +17,7 @@ from utils.playerNames import playerNames
 
 #clear = lambda: os.system('clear') #on Linux System
 
-
+#test pour versioning git
 
 
 class Game(object):
