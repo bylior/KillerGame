@@ -19,6 +19,8 @@ from utils.playerNames import playerNames
 
 #test pour versioning git
 
+#insertion commentaire pour realisation switch windows
+
 
 class Game(object):
     
